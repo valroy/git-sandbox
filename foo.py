@@ -1,3 +1,4 @@
-# version 1
+# version 2
 class Foo:
-    pass
+    def __init__(self):
+        pass
